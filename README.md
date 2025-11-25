@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icyfrost5
-- 👀 I’m interested in coding, cybersecurity, and IT
-- 💻I code in Python and Lua
+- 👀 I’m interested in coding, cybersecurity, and over all IT
+- 💻I code in Python, Java, HTML/CSS, and Luau/Lua
 - 🐍I an an intermediate Python coder and intermediate-advanced Lua coder.
 - 😄 Pronouns: He/Him
 
