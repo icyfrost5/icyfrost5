@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Senay or @icyfrost5
 - 👀 I’m interested in coding, cybersecurity, and overall IT
-- 💻I code in Python, Java, HTML/CSS, and Luau/Lua
-- 🐍I am a semi-advanced Python coder and intermediate-advanced Lua coder.
+- 💻I can write code in Python, Java, HTML/CSS, and Luau/Lua
+- 🐍I am a semi-advanced Python coder and intermediate-advanced Lua coder, and am a beginner at Java. 
+- 🪲  I enjoy finding bugs in other people's code
 - 😄 Pronouns: He/Him
 
 <!---
